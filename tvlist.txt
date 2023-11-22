@@ -1239,7 +1239,7 @@ https://1xp601.cdnedge.live/file/avple-asserts/hls/635ba8134c2ba20f2586bed0/play
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/635ba8c98e0ba231034c2a2d/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒42
 https://8bb881.cdnedge.live/file/avple-asserts/hls/635ba79c4c2ba20f2586becf/playlist.m3u8
-#EXTINF:-1 group-title="传媒13",��10传媒43
+#EXTINF:-1 group-title="传媒13",🌏10传媒43
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/635a3146877aa7388ca75460/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒44
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/63599ff3877aa7388ca7545f/playlist.m3u8
@@ -1289,7 +1289,7 @@ https://q2cyl71.cdnedge.live/file/avple-asserts/hls/6357af7df0cbb04c8218337b/pla
 https://w9n761.cdnedge.live/file/avple-asserts/hls/635665ca0655fd7e14a5de99/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒67
 https://je40u1.cdnedge.live/file/avple-asserts/hls/6355e59f54092e7600dd8ae2/playlist.m3u8
-#EXTINF:-1 group-title="传��13",🌏10传媒68
+#EXTINF:-1 group-title="传媒13",🌏10传媒68
 https://1xp601.cdnedge.live/file/avple-asserts/hls/6355e5da54092e7600dd8ae3/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒69
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/6355e52754092e7600dd8ae1/playlist.m3u8
@@ -6035,7 +6035,7 @@ https://q2cyl7.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bd2/playl
 https://8bb88.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bcd/playlist.m3u8
 #EXTINF:-1 group-title="传媒43",🍺Princessdolly53
 https://je40u.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bc9/playlist.m3u8
-#EXTINF:-1 group-title="���媒43",🍺Princessdolly54
+#EXTINF:-1 group-title="传媒43",🍺Princessdolly54
 https://1xp60.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bc0/playlist.m3u8
 #EXTINF:-1 group-title="传媒43",🍺Princessdolly55
 https://zo392.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bb3/playlist.m3u8
@@ -6045,7 +6045,7 @@ https://u89ey.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82bab/playli
 https://je40u.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82ba7/playlist.m3u8
 #EXTINF:-1 group-title="传媒43",🍺Princessdolly58
 https://w9n76.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82ba0/playlist.m3u8
-#EXTINF:-1 group-title="传媒43",��Princessdolly59
+#EXTINF:-1 group-title="传媒43",🍺Princessdolly59
 https://w9n76.cdnedge.live/file/avple-images/hls/609d2da16fbca77051d82b99/playlist.m3u8
 #EXTINF:-1 group-title="传媒44",🍎何苗01
 https://d862cp.cdnedge.live/file/avple-images/hls/61051cd6c778956038fdd09e/playlist.m3u8
