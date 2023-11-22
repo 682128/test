@@ -6461,7 +6461,7 @@ https://ch.hello3dmax.com/RH2321GPP/index.m3u8
 https://ch.hello3dmax.com/RH154RLX/index.m3u8
 #EXTINF:-1 group-title="传媒47",🥤134
 https://ch.hello3dmax.com/RH155PDW/index.m3u8
-#EXTINF:-1 group-title="传��47",🥤135
+#EXTINF:-1 group-title="传媒47",🥤135
 https://ch.hello3dmax.com/RH2434VUB/index.m3u8
 #EXTINF:-1 group-title="传媒47",🥤136
 https://ch.hello3dmax.com/RH1647JEU/index.m3u8
@@ -6491,7 +6491,7 @@ https://ch.hello3dmax.com/RH2323XFR/index.m3u8
 https://ch.hello3dmax.com/RH2324XAD/index.m3u8
 #EXTINF:-1 group-title="传媒47",🥤149
 https://ch.hello3dmax.com/RH158TXK/index.m3u8
-#EXTINF:-1 group-title="���媒47",🥤150
+#EXTINF:-1 group-title="传媒47",🥤150
 https://ch.hello3dmax.com/RH1652VWD/index.m3u8
 #EXTINF:-1 group-title="传媒47",🥤151
 https://ch.hello3dmax.com/RH159FWS/index.m3u8
