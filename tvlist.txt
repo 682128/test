@@ -713,7 +713,7 @@ https://d862cp1.cdnedge.live/file/avple-asserts/hls/637a3d371d219d0e0c98aef3/pla
 https://zo3921.cdnedge.live/file/avple-asserts/hls/637a3c295576a818714e02a8/playlist.m3u8
 #EXTINF:-1 group-title="传媒09",🧁11传媒16
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/637a3cdf5576a818714e02ab/playlist.m3u8
-#EXTINF:-1 group-title="传媒09",��11传媒17
+#EXTINF:-1 group-title="传媒09",🧁11传媒17
 https://8bb881.cdnedge.live/file/avple-asserts/hls/637a1debbe020825e9ce261e/playlist.m3u8
 #EXTINF:-1 group-title="传媒09",🧁11传媒18
 https://w9n761.cdnedge.live/file/avple-asserts/hls/6379fd1bc5090f7949f4825f/playlist.m3u8
