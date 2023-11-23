@@ -157,7 +157,7 @@ https://d862cp1.cdnedge.live/file/avple-asserts/hls/63a35f256f0f634b633b0159/pla
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/63a35ee96f0f634b633b0158/playlist.m3u8
 #EXTINF:-1 group-title="传媒03",🦍12传媒31
 https://w9n761.cdnedge.live/file/avple-asserts/hls/63a35e356f0f634b633b0156/playlist.m3u8
-#EXTINF:-1 group-title="传媒03",��12传媒32
+#EXTINF:-1 group-title="传媒03",🦍12传媒32
 https://je40u1.cdnedge.live/file/avple-asserts/hls/63a35eac6f0f634b633b0157/playlist.m3u8
 #EXTINF:-1 group-title="传媒03",🦍12传媒33
 https://q2cyl71.cdnedge.live/file/avple-asserts/hls/63a35dbd6f0f634b633b0155/playlist.m3u8
@@ -395,7 +395,7 @@ https://zo3921.cdnedge.live/file/avple-asserts/hls/63902f954ffd2f613a51290b/play
 https://w9n761.cdnedge.live/file/avple-asserts/hls/63902f5a4ffd2f613a51290a/playlist.m3u8
 #EXTINF:-1 group-title="传媒06",🦁12传媒11
 https://10j991.cdnedge.live/file/avple-asserts/hls/63902e684ffd2f613a512908/playlist.m3u8
-#EXTINF:-1 group-title="传媒06",🦁12传��12
+#EXTINF:-1 group-title="传媒06",🦁12传媒12
 https://e2fa61.cdnedge.live/file/avple-asserts/hls/63902ea64ffd2f613a512909/playlist.m3u8
 #EXTINF:-1 group-title="传媒06",🦁12传媒13
 https://8bb881.cdnedge.live/file/avple-asserts/hls/63902d014ffd2f613a512906/playlist.m3u8
@@ -991,7 +991,7 @@ https://10j991.cdnedge.live/file/avple-asserts/hls/636a362d1fc86e238f68828e/play
 https://10j991.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53fa/playlist.m3u8
 #EXTINF:-1 group-title="传媒11",🍲11传媒82
 https://je40u1.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f9/playlist.m3u8
-#EXTINF:-1 group-title="传媒11",🍲11��媒83
+#EXTINF:-1 group-title="传媒11",🍲11传媒83
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f7/playlist.m3u8
 #EXTINF:-1 group-title="传媒11",🍲11传媒84
 https://e2fa61.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f8/playlist.m3u8
@@ -1011,7 +1011,7 @@ https://w9n761.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f2/play
 https://1xp601.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f3/playlist.m3u8
 #EXTINF:-1 group-title="传媒11",🍲11传媒92
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53ef/playlist.m3u8
-#EXTINF:-1 group-title="传媒11",��11传媒93
+#EXTINF:-1 group-title="传媒11",🍲11传媒93
 https://1xp601.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53f1/playlist.m3u8
 #EXTINF:-1 group-title="传媒11",🍲11传媒94
 https://q2cyl71.cdnedge.live/file/avple-asserts/hls/636a3025f0d62874025f53ec/playlist.m3u8
@@ -1189,7 +1189,7 @@ https://zo3921.cdnedge.live/file/avple-asserts/hls/635c812da17d7c0b274cd429/play
 https://8bb881.cdnedge.live/file/avple-asserts/hls/635c812da17d7c0b274cd427/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒17
 https://10j991.cdnedge.live/file/avple-asserts/hls/635c812da17d7c0b274cd425/playlist.m3u8
-#EXTINF:-1 group-title="传媒13",🌏10传��18
+#EXTINF:-1 group-title="传媒13",🌏10传媒18
 https://1xp601.cdnedge.live/file/avple-asserts/hls/635c812da17d7c0b274cd423/playlist.m3u8
 #EXTINF:-1 group-title="传媒13",🌏10传媒19
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/635c812da17d7c0b274cd41f/playlist.m3u8
@@ -1497,7 +1497,7 @@ https://10j991.cdnedge.live/file/avple-asserts/hls/6346a7b4bae0755d7e12cd78/play
 https://1xp601.cdnedge.live/file/avple-asserts/hls/6346a304bae0755d7e12cd77/playlist.m3u8
 #EXTINF:-1 group-title="传媒15",🍭10传媒33
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/634699a4bae0755d7e12cd74/playlist.m3u8
-#EXTINF:-1 group-title="传媒15",🍭10��媒34
+#EXTINF:-1 group-title="传媒15",🍭10传媒34
 https://w9n761.cdnedge.live/file/avple-asserts/hls/63469e54bae0755d7e12cd76/playlist.m3u8
 #EXTINF:-1 group-title="传媒15",🍭10传媒35
 https://1xp601.cdnedge.live/file/avple-asserts/hls/63469c00bae0755d7e12cd75/playlist.m3u8
@@ -1527,7 +1527,7 @@ https://u89ey1.cdnedge.live/file/avple-asserts/hls/6345b5de93b50e7e36f88169/play
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/6345b31093b50e7e36f88165/playlist.m3u8
 #EXTINF:-1 group-title="传媒16",🍺10传媒13
 https://10j991.cdnedge.live/file/avple-asserts/hls/6345b16f93b50e7e36f88162/playlist.m3u8
-#EXTINF:-1 group-title="传媒16",��10传媒14
+#EXTINF:-1 group-title="传媒16",🍺10传媒14
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/6345b22193b50e7e36f88164/playlist.m3u8
 #EXTINF:-1 group-title="传媒16",🍺10传媒15
 https://d862cp1.cdnedge.live/file/avple-asserts/hls/6345b0f593b50e7e36f88161/playlist.m3u8
@@ -2793,7 +2793,7 @@ https://u89ey.cdnedge.live/file/avple-images/hls/62de99db9c1f417cf9465e0c/playli
 https://je40u.cdnedge.live/file/avple-images/hls/62de98ec9c1f417cf9465e09/playlist.m3u8
 #EXTINF:-1 group-title="传媒29",⬇️7传媒04
 https://zo392.cdnedge.live/file/avple-images/hls/62de99639c1f417cf9465e0b/playlist.m3u8
-#EXTINF:-1 group-title="传媒29",⬇️7传��05
+#EXTINF:-1 group-title="传媒29",⬇️7传媒05
 https://u89ey.cdnedge.live/file/avple-images/hls/62de98739c1f417cf9465e08/playlist.m3u8
 #EXTINF:-1 group-title="传媒29",⬇️7传媒06
 https://1xp60.cdnedge.live/file/avple-images/hls/62de97499c1f417cf9465e06/playlist.m3u8
