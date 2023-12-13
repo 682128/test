@@ -2,3 +2,4 @@ https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/1108zh.txt
 https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/hkt.txt
 https://agit.ai/138001380000/MHQTV/raw/branch/master/cr/live.txt
 https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt
+https://cyuan.netlify.app/tvbox/lives/18+/18+千部独家传媒无水印来袭tvlist.txt
